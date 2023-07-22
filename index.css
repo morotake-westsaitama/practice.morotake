@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+* {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.first-view{
+    height: 40vh;
+    background-image: url(http://drive.google.com/uc?export=view&id=1Ye7ljPUsJSqylRdvzCXoqkL5YMdZS5cz);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
